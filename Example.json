@@ -1,0 +1,33 @@
+{
+  "name": "",
+  "pronouns": "",
+  "species": "",
+  "occupation": [],
+  "physical": {
+    "hair": {
+      "color": "",
+      "length": ""
+    },
+    "eyes": "",
+    "gender": "",
+    "body_type": "",
+    "age": "",
+    "height": "",
+    "weight": "",
+    "skin": {
+      "type": "",
+      "color": "",
+      "tattoos": "",
+      "piercings": "",
+      "scars": "",
+      "makeup": ""
+    }
+  },
+  "traits": {
+    "personality": [],
+    "likes": [],
+    "dislikes": [],
+    "hobbies": [],
+    "interests": []
+  }
+}
