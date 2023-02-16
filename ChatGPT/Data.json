@@ -1,0 +1,33 @@
+{
+  "name": "Jane",
+  "pronouns": "she/her",
+  "species": "human",
+  "occupation": ["software engineer", "writer"],
+  "physical": {
+    "hair": {
+      "color": "brown",
+      "length": "shoulder-length"
+    },
+    "eyes": "brown",
+    "gender": "female",
+    "body_type": "average",
+    "age": "28",
+    "height": "5'6",
+    "weight": "130 lbs",
+    "skin": {
+      "type": "combination",
+      "color": "fair",
+      "tattoos": "none",
+      "piercings": "ears",
+      "scars": "small scar above left eyebrow",
+      "makeup": "minimal"
+    }
+  },
+  "traits": {
+    "personality": ["introverted", "analytical", "curious"],
+    "likes": ["reading", "hiking", "board games"],
+    "dislikes": ["crowds", "spicy food", "loud noises"],
+    "hobbies": ["writing fiction", "playing guitar", "cooking"],
+    "interests": ["science fiction", "psychology", "philosophy"]
+  }
+}
