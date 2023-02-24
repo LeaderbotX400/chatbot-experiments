@@ -4,6 +4,9 @@ This is a collection of experiments that I have run or have found on the interne
 
 **_THIS IS FOR EDUCATIONAL PURPOSES ONLY_** I am not responsible for any results that may come from the uses of any of theses prompts. **Use at your own risk**
 
+## Want to help?
+Feel free to create issues, make pull requests, or fork this repo!
+
 ## Table of contents
 
 - Experiments
