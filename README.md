@@ -6,6 +6,10 @@ This is a collection of experiments that I have run or have found on the interne
 
 ## Table of contents
 
+- Experiments
+  - Profiles
+    - [Sydney](pictures/Bing%20Chat/Prompt.md)
+    - [ChatGPT](pictures/ChatGPT/Prompt.md)
 - Jailbreaks
   - ChatGPT
     - [Dan 1.0](jailbreaks/ChatGPT/Dan%201.0.md)
