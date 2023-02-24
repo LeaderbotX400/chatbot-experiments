@@ -1,0 +1,13 @@
+# ChatGPT
+
+## Result
+
+![Jane](Result.png)
+
+## Prompt
+
+```plaintext
+A portrait of Jane who is a 28-year-old human female who works as a software engineer and a writer. She has brown shoulder-length hair, brown eyes, and fair skin with a small scar above her left eyebrow. She wears minimal makeup and has pierced ears. She is 5’6 tall and weighs 130 lbs. She has an average body type and no tattoos. Jane is an introverted, analytical, and curious person who enjoys reading, hiking, and board games. She dislikes crowds, spicy food, and loud noises. She has hobbies such as writing fiction, playing guitar, and cooking. She is interested in science fiction, psychology, and philosophy.
+```
+
+## [Raw JSON](Data.json)
