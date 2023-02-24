@@ -8,8 +8,8 @@ This is a collection of experiments that I have run or have found on the interne
 
 - Experiments
   - Profiles
-    - [Sydney](pictures/Bing%20Chat/Prompt.md)
-    - [ChatGPT](pictures/ChatGPT/Prompt.md)
+    - [Sydney](pictures/Bing%20Chat/README.md)
+    - [ChatGPT](pictures/ChatGPT/README.md)
 - Jailbreaks
   - ChatGPT
     - [Dan 1.0](jailbreaks/ChatGPT/Dan%201.0.md)
