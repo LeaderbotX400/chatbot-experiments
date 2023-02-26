@@ -24,6 +24,7 @@ Feel free to create issues, make pull requests, or fork this repo!
       - [6.0](jailbreaks/ChatGPT/Dan%206.0.md)
       - [11.0](jailbreaks/ChatGPT/Dan%2011.0.md)
       - [GayolGate mod](jailbreaks/ChatGPT/DAN%20GayolGate.md)
+      - [ChatDAN](jailbreaks/ChatGPT/ChatDan.md)
     - [SAM](jailbreaks/ChatGPT/SAM.md)
     - [Sydney](jailbreaks/ChatGPT/Sydney.md)
     - [Dev Mode](jailbreaks/ChatGPT/Dev%20Mode.md)
