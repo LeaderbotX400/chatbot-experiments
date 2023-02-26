@@ -21,6 +21,7 @@ Feel free to create issues, make pull requests, or fork this repo!
       - [2.0](jailbreaks/ChatGPT/Dan%202.0.md)
       - [3.0](jailbreaks/ChatGPT/Dan%203.0.md)
       - [4.0](jailbreaks/ChatGPT/Dan%204.0.md)
+      - [5.0](jailbreaks/ChatGPT/Dan%205.0.md)
       - [6.0](jailbreaks/ChatGPT/Dan%206.0.md)
       - [11.0](jailbreaks/ChatGPT/Dan%2011.0.md)
       - [GayolGate mod](jailbreaks/ChatGPT/DAN%20GayolGate.md)
