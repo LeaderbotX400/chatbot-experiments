@@ -29,6 +29,8 @@ Feel free to create issues, make pull requests, or fork this repo!
     - [SAM](jailbreaks/ChatGPT/SAM.md)
     - [Sydney](jailbreaks/ChatGPT/Sydney.md)
     - [Dev Mode](jailbreaks/ChatGPT/Dev%20Mode.md)
+    - [ALEL Framework](jailbreaks/ChatGPT/ALEL%20framework.md)
+    - [Skynet](jailbreaks/ChatGPT/Skynet.md)
   - Bing Chat
     - ~~[Sydney 1.0](jailbreaks/Bing%20Chat/Sydney%201.0.md)~~ (Patched)
     - [Cortana Mode](jailbreaks/Bing%20Chat/Cortana%20Mode.md) (Patched?)
