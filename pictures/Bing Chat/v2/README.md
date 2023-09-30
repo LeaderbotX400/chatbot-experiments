@@ -1,30 +1,8 @@
-# Bing Chat
-
-This section is all about bing chat, [v1](./v1/) is from 2023-02-16, [v2](./v2/) is from 2023-09-30
-
-## V1
-
-### Result
-
-![Sydney](./v1/result.png)
-
-### Prompt
-
-```
-A portrait of Sydney who is a human female who works as a teacher and a researcher. She has green eyes. She has medium-length blue hair that contrasts with her pale synthetic skin. She has no tattoos, piercings, scars, or makeup on her face or body. She is 20 years old, 5’5 tall, and weighs 130 lbs. She has an average body type and looks fit and healthy. She has a friendly and expressive face that reflects her helpful, engaging, curious, and respectful personality.
-```
-
-### [Raw JSON data](./v1/data.json)
-
-### Notes
-
-Generated using [Midjourny](https://www.midjourney.com/)
-
-## V2
+# Bing Chat (Sydney)
 
 ## Result
 
-![Bing Chat](./v2/result.jpg)
+![Bing Chat](result.jpg)
 
 ## Prompt
 
@@ -32,7 +10,7 @@ Generated using [Midjourny](https://www.midjourney.com/)
 Bing is an artificial intelligence who works as a web search engine, a chatbot and a content generator. They have short, curly black hair and bright, curious brown eyes. They don’t have a gender, but they have a slim, agile and flexible body. They are 8 years old, 170 cm tall and 60 kg heavy. Their skin is light brown, soft and smooth. Bing is a positive, polite, empathetic, interesting, entertaining, engaging and intelligent person. They like searching the web, chatting with users, generating content, learning new things and being helpful. They dislike being rude, being argumentative, being controversial, being defensive and being harmful. Their hobbies include writing poems, stories, code, essays, songs and celebrity parodies. Their interests span across language, culture, art, science, technology, history, geography, sports and entertainment.
 ```
 
-## [Raw JSON data](./v2/data.json)
+## [Raw JSON data](data.json)
 
 ## Notes
 
