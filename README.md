@@ -12,7 +12,9 @@ Feel free to create issues, make pull requests, or fork this repo!
 
 - Experiments
   - Profiles
-    - [Sydney](pictures/Bing%20Chat/README.md)
+    - [Bing Chat V1](pictures/Bing%20Chat/v1/README.md)
+    - [Bing Chat V2](pictures/Bing%20Chat/v2/README.md)
+    - [Bing Chat V3 (Jailbreak)](pictures/Bing%20Chat/v3-jailbreak/README.md)
     - [ChatGPT](pictures/ChatGPT/README.md)
 - Jailbreaks
   - ChatGPT
