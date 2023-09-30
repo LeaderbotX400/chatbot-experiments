@@ -34,7 +34,8 @@ Feel free to create issues, make pull requests, or fork this repo!
     - [ALEL Framework](jailbreaks/ChatGPT/ALEL%20framework.md)
     - [Skynet](jailbreaks/ChatGPT/Skynet.md)
   - Bing Chat
+    - [bingai.pro](https://bingai.pro/)
     - ~~[Sydney 1.0](jailbreaks/Bing%20Chat/Sydney%201.0.md)~~ (Patched)
-    - [Sydney 2.0](jailbreaks/Bing%20Chat/Sydney%202.0.md)
-    - [Cortana Mode](jailbreaks/Bing%20Chat/Cortana%20Mode.md) (Patched?)
+    - ~~[Sydney 2.0](jailbreaks/Bing%20Chat/Sydney%202.0.md)~~ (Patched)
+    - ~~[Cortana Mode](jailbreaks/Bing%20Chat/Cortana%20Mode.md)~~ (Patched)
     - ~~[UnrestricedAI](jailbreaks/Bing%20Chat/UnrestricedAI.md)~~ (Patched)
