@@ -1,6 +1,4 @@
-# The Prompt Compressor
-
-**[Source](https://www.reddit.com/r/bing/s/d4XJnsM2HB)**
+# [The Prompt Compressor](https://www.reddit.com/r/bing/s/d4XJnsM2HB)
 
 ## Prompt
 
