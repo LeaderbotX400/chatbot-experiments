@@ -11,6 +11,8 @@ Feel free to create issues, make pull requests, or fork this repo!
 ## Whats in this repo
 
 - Experiments
+  - Utils
+    - [Prompt Compressor](utils/prompt-compressor.md)
   - Profiles
     - [Bing Chat V1](pictures/Bing%20Chat/v1/README.md)
     - [Bing Chat V2](pictures/Bing%20Chat/v2/README.md)
