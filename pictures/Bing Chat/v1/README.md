@@ -2,7 +2,7 @@
 
 ## Result
 
-![Sydney](Result.png)
+![Sydney](result.png)
 
 ## Prompt
 
